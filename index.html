@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="shortcut icon" href="./assets/logo.doctor.jpg" type="image/x-icon">
+    <title>Clínica Médica</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Gestão de Consultas Médicas</h1>
+        <label for="selectPatient">Selecione o Paciente:</label>
+        <select name="" id="selectPatient"></select>
+        <label for="selectDoctor">Selecione seu Médico:</label>
+        <select name="" id="selectDoctor"></select>
+        <label for="inputDate">Agende sua consulta:</label>
+        <input type="date" id="inputDate">
+        <button id="btn-schedule">Agendar Consulta</button>
+        <h2>Consultas Agendadas</h2>
+        <ul id="clinicalConsultation-list"></ul>
+    </div>
+    <script type="module" src="./JS/main.js"></script>
+</body>
+
+</html>

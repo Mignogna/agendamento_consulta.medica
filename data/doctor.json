@@ -1,0 +1,6 @@
+[
+    {"name": "Elena Pascollato", "age":53,"cpf":"789.456.123-55", "medSpecialty": "Cardiologista"},
+    {"name": "Francesca Ianelli ", "age":39,"cpf":"789.456.753-55", "medSpecialty": "Pediatria"},
+    {"name": "Giovanni Duccati", "age":47,"cpf":"789.496.123-55", "medSpecialty": "Dermatologista"},
+    {"name": "Antonio Sposito", "age":61, "cpf":"789.986.123-55","medSpecialty": "Clínica Geral"}
+]

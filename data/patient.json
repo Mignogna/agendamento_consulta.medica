@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Antonella Pucci",
+        "age": 18,
+        "cpf": "123.456.123-10"
+    },
+    {
+        "name": "Gianlucca Pagliucca",
+        "age": 31,
+        "cpf": "321.456.123-10"
+    },
+    {
+        "name": "Giullia Magri",
+        "age": 22,
+        "cpf": "123.564.123-10"
+    },
+    {
+        "name": "Pietro Galdi",
+        "age": 48,
+        "cpf": "123.456.128-50"
+    },
+    {
+        "name": "Alessia Cosimo",
+        "age": 13,
+        "cpf": "123.456.123-10"
+    }
+]
